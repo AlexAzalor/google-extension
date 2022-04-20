@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-typescript-starter-pack"]=this["webpackJsonpreact-typescript-starter-pack"]||[]).push([[0],{11:function(t,e,c){"use strict";c.r(e);var n=c(0),r=c.n(n),s=c(3),i=c.n(s),o=(c(8),c(9),c(1)),a=function(){return Object(o.jsx)("h1",{children:"Google extension"})};i.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,c){},9:function(t,e,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.365d4b51.chunk.js.map
